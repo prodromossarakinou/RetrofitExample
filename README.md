@@ -9,3 +9,6 @@ An easy and understandable example about retrofit technology
   <li>RecyclerView</li>
   <li>Picasso</li>
 </ul>
+
+## Screenshot
+  <img src ="screenshot.png" width="200" title="Convert's Photo"></img> 
