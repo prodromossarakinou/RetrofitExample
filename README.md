@@ -9,6 +9,7 @@ An easy and understandable example about retrofit technology
   <li>RecyclerView</li>
   <li>Picasso</li>
 </ul>
-
+## Rest Data:
+  It's simple test data from https://jsonplaceholder.typicode.com/photos
 ## Screenshot
   <img src ="screenshot.png" width="200" title="Convert's Photo"></img> 
