@@ -1,8 +1,9 @@
-# RetrofitExample
+# RetrofitExample on Mobile Development
 An easy and understandable example about retrofit technology 
 ## Technologies Used:
 <ul>
-  
+  <li>Android Studio</li>
+  <li>Kotlin</li>
   <li>Retrofit</li>
   <li>GSON</li>
   <li>CardView</li>
